@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11124817016",
+    "project_id": "phoneauthh-204f9",
+    "storage_bucket": "phoneauthh-204f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11124817016:android:fbc66e24943fc1baa9018d",
+        "android_client_info": {
+          "package_name": "com.example.phoneauthh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJeXg1B44SXozbi1F9BORtyrearMS6UqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
